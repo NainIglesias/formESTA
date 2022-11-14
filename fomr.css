@@ -1,0 +1,40 @@
+div{
+
+    width: 45%;
+    height: auto;
+    margin: auto;
+    padding: center;
+   
+}
+body{
+   background-image: url(aad18fac91f1c026b253ed5dbb8d7163.gif) ;
+   background-repeat: no-repeat; 
+   background-position: center;
+   background-size: cover;
+   text-align: left;
+    
+}
+
+h3{
+    font-size: 2em;
+    text-align: center;
+    color:lightblue;
+    background-color:azure ;
+    border:3px solid gray;
+}
+
+
+form{
+    padding: center;
+    border:3px solid gray;
+    background-color: azure;
+}
+label{
+    margin: 10px;
+}
+input, textarea, fieldset{
+    margin: 15px;
+}
+select{
+    margin:13px;
+}
